@@ -1,5 +1,5 @@
 {
-  "name": "@donny1337/utilities",
+  "name": "donny-utilities",
   "version": "1.0.0",
   "description": "",
   "main": "dist/donny1337-utilities.cjs.js",
@@ -25,10 +25,10 @@
   },
   "homepage": "https://github.com/.../...",
   "dependencies": {
-    "@babel/runtime": "7.20.7"
+    "@babel/runtime": "7.22.6"
   },
   "devDependencies": {
-    "typescript": "4.9.4"
+    "typescript": "5.1.6"
   },
   "publishConfig": {
     "access": "public"
