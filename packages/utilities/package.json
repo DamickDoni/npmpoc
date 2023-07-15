@@ -1,10 +1,10 @@
 {
-  "name": "@typescript-library-template/utilities",
+  "name": "@donny1337/utilities",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/typescript-library-template-utilities.cjs.js",
-  "module": "dist/typescript-library-template-utilities.esm.js",
-  "types": "dist/typescript-library-template-utilities.cjs.d.ts",
+  "main": "dist/donny1337-utilities.cjs.js",
+  "module": "dist/donny1337-utilities.esm.js",
+  "types": "dist/donny1337-utilities.cjs.d.ts",
   "files": [
     "src",
     "dist",
