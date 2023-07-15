@@ -1,1 +1,1 @@
-# @typescript-library-template/utilities
+# donny-utilities

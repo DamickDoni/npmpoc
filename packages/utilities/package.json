@@ -1,10 +1,10 @@
 {
   "name": "donny-utilities",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "",
-  "main": "dist/donny1337-utilities.cjs.js",
-  "module": "dist/donny1337-utilities.esm.js",
-  "types": "dist/donny1337-utilities.cjs.d.ts",
+  "main": "dist/donny-utilities.cjs.js",
+  "module": "dist/donny-utilities.esm.js",
+  "types": "dist/donny-utilities.cjs.d.ts",
   "files": [
     "src",
     "dist",

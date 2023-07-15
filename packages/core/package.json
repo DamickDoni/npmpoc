@@ -1,14 +1,13 @@
 {
   "name": "donny-core",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "",
-  "main": "dist/donny1337-core.cjs.js",
-  "module": "dist/donny1337-core.esm.js",
-  "types": "dist/donny1337-core.cjs.d.ts",
+  "main": "dist/donny-core.cjs.js",
+  "module": "dist/donny-core.esm.js",
+  "types": "dist/donny-core.cjs.d.ts",
   "preconstruct": {
     "entrypoints": [
-      "index.ts",
-      "module/index.ts"
+      "index.ts"
     ]
   },
   "files": [
